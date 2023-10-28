@@ -1,1 +1,1 @@
-# Ifood_DIO_Desafios repositório dedicado aos desafio do bootcamp do Ifood
+# Ifood_DIO_Desafios repositório dedicado aos desafios do bootcamp do Ifood
